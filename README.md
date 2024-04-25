@@ -5,8 +5,8 @@ I am preparing a new repository
 # Assignemt # 2
 There were no errors generated while recreating.
 ## software_dev_v1.yml environment
-" conda env create -f software_dev_v1.yml "
-" conda activate software_dev_v1 "
+```conda env create -f software_dev_v1.yml ```
+```conda activate software_dev_v1  ```
 
 
 
