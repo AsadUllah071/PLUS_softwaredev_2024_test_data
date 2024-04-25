@@ -8,9 +8,16 @@ There were no errors generated while recreating.
 ```conda env create -f software_dev_v1.yml ```
 
 ```conda activate software_dev_v1  ```
-![image](https://github.com/AsadUllah071/PLUS_softwaredev_2024_test_data/assets/150558852/a3ccc2f5-c3bb-4b55-a2c6-ba5a581e657e)
+
+![Assignment 1](https://github.com/AsadUllah071/PLUS_softwaredev_2024_test_data/assets/150558852/8fd3a316-76b4-4274-b8ea-4334412e9450)
 
 
+## software_dev_v2.yml environment
 
+```conda env create -f software_dev_v2.yml ```
+
+```conda activate software_dev_v2  ```
+
+![Assignment 2](https://github.com/AsadUllah071/PLUS_softwaredev_2024_test_data/assets/150558852/17a379bc-98f7-4064-af19-3ea9897f8fd0)
 
 
