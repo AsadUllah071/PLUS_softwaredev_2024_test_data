@@ -1,0 +1,9 @@
+name: ndvi-analysis-env
+dependencies:
+  - python=3.8
+  - numpy
+  - pandas
+  - matplotlib
+  - seaborn
+  - scipy
+  - jupyter
